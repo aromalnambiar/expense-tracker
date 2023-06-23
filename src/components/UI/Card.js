@@ -18,6 +18,6 @@ const Container = styled.div`
 background-color: #282c34;
 padding: 10px;
 border-radius: 20px;
-min-height: 100px;
+min-height: 99px;
 
 `;
